@@ -1,8 +1,10 @@
+
+
+# Proje Adı 
 # my-plant-disease-app
+
 yaprak hastalık tespiti için deneme
 
-
-# Proje Adı
 Bu proje hakkında kısa bir açıklama.
 
 ## Kurulum
